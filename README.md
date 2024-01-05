@@ -14,7 +14,6 @@ This script listens to keystrokes using the `pynput` library and logs them into 
 
 ### Prerequisites
 
-- Python 3.x
 - `pynput` library
 
 ### Installation Steps
